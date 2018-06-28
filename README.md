@@ -18,7 +18,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 5. Software Support Handbook      
 6. Cartas de Anuncio
 7. Knowledge Center (Información técnica detallada)
-8. Developer Works (Comunidad)
+8. [Developer Works (Comunidad)](#8-developer-works)
 9. [IBM Redbooks](#9-ibm-redbooks)
 
 
