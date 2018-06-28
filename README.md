@@ -189,3 +189,7 @@ Un PMR(Problem Management Report) es un Informe de gestión de problemas, que es
 Para abrir un PMR utilizar el siguiente link:
 
 [Problem Management Report](https://www-947.ibm.com/support/servicerequest/).
+
+- Las instrucciones detalladas se pueden encontrar en el siguiente link:
+
+[Instrucciones](http://www-01.ibm.com/support/docview.wss?uid=nas8N1011377)
