@@ -4,7 +4,7 @@
 </div>
 
 ## Proposito del Material
-El propósito del siguiente material es proveer a la comunidad de enlaces y procedimientos de utilidad para el manejo en general de Software IBM. El presente documento no constituye información oficial de IBM , simplemente es una guía con herramientas que pueden ser usadas por los interesados.
+El propósito del siguiente material es proveer a la comunidad de enlaces e información de utilidad para el manejo en general de Software IBM. El presente documento no constituye información oficial de IBM , simplemente es una guía con herramientas que pueden ser usadas por los interesados.
 
 
 # Tabla de contenido
