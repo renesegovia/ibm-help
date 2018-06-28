@@ -13,7 +13,11 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
     - 1.2 Related software
     - 1.3 Hypervisors
     - 1.4 In-depth reports
-   
+2. Acuerdo de Licenciamiento por Producto
+3. Ciclo de vida de los Productos
+4. Tabla de PVUs por Tecnología
+5. Software Support Handbook      
+6. Cartas de Anuncio
 
 
 # 1. Compatibilidad
@@ -36,6 +40,34 @@ El sitio web mencionado es:
 - El reporte será generado, el mismo incluye la información de todas las versiones de sistemas operativos soportados para el producto seleccionado.
 
 <img src="img/Selection_007.png" width="700" height="385">
+
+# 3. Ciclo de vida de los Productos
+Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
+
+El sitio web mencionado es:
+
+[Software lifecycle](http://www-01.ibm.com/software/support/lifecycle/).
+
+- Para la consulta de información ingresamos al link
+- Una vez dentro colocamos el producto deseado como: **Websphere Application Server** y damos click en **Search*
+
+<img src="img/Selection_009.png" width="700" height="385">
+
+- Una vez procesada la búsqueda, buscamos el producto y la versión que estamos verificando y encontraremos la fecha de **End of Support**
+
+<img src="img/Selection_010.png" width="700" height="385">
+
+# 5. Software Support Handbook 
+El siguiente link tiene toda la información de importancia para el manejo de soporte de productos IBM.
+
+[Software Support Handbook](https://www-304.ibm.com/support/customercare/sas/f/handbook/getsupport.html).
+
+# 6. Cartas de Anuncio
+El siguiente link tiene toda la información de importancia que emite IBM acerca de actualizaciones y lanzamientos de productos. 
+
+[Cartas de Anuncio](https://www-01.ibm.com/common/ssi/apilite?infotype=an&infosubt=ca&lastdays=7&ctvwcode=us&hitlimit=200&appname=USN).
+
+
 
 <div style="background-color:#5A0F1B;color:white; vertical-align: middle; text-align:center;font-size:190%; padding:10px; margin-top:100px">
  IBM Tools for Software
