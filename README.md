@@ -9,9 +9,9 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 
 # Tabla de contenido
 1. Compatibilidad de Software
-    - 1.1 Operating systems
-    - 1.2 Related software
-    - 1.3 In-depth reports
+    - 1.1 Sistemas Operativos
+    - 1.2 Software Relacionado
+    - 1.3 Reportes Detallados
 2. Acuerdo de Licenciamiento por Producto
 3. Ciclo de vida de los Productos
 4. Tabla de PVUs por Tecnología
@@ -22,14 +22,14 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 9. [IBM Redbooks](#9-ibm-redbooks)
 
 
-# 1. Compatibilidad
+# 1. Compatibilidad de Software
 El análisis de comtatibilidad es de mucha importacia al momento de diseñar nuevas arquitecturas, el sistema operativo a ser usado,las características de hardware e hypervisores y el software relacionado son de suma importancia para el diseño de soluciones. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
 El sitio web mencionado es:
 
 [Software Product Compatibility Reports](https://www.ibm.com/software/reports/compatibility/clarity/index.html).
 
-## 1.1. Operating systems
+## 1.1. Sistemas Operativos
 - Para el análisis de sistemas operativos ingresamos al link
 - Una vez dentro seleccionamos la opción **Operating systems** y damos click en **Create a report**
 
@@ -43,7 +43,7 @@ El sitio web mencionado es:
 
 <img src="img/Selection_007.png" width="700" height="385">
 
-## 1.2. Related software
+## 1.2. Software Relacionado
 - Para el análisis de software relacionado ingresamos al link
 - Una vez dentro seleccionamos la opción **Related software** y damos click en **Create a report**
 
@@ -57,7 +57,7 @@ El sitio web mencionado es:
 
 <img src="img/Selection_012.png" width="700" height="385">
 
-## 1.3. In-depth reports
+## 1.3. Reportes Detallados
 - Para obtener un reporte detalado ingresamos al link
 - Una vez dentro en la sección **In-depth reports** damos click en **Create a report**
 
@@ -123,7 +123,7 @@ El sitio web mencionado es:
 <img src="img/Selection_016.png" width="700" height="385">
 
 # 8. DeveloperWorks
-Es un sitio de mucha utilidad a la hora de encontrar información acerca de tutoriales, herramientas, foros y algunos cursos.
+Es un sitio de mucha utilidad a la hora de encontrar información acerca de tutoriales, herramientas, foros y algunos cursos.Es posible que para utilizar este sitio se necesite una credencial IBMID, la misma que se puede crear de forma gratuita.
 
 [DeveloperWorks](https://www.ibm.com/developerworks/).
 
