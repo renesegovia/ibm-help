@@ -21,7 +21,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces e info
 8. [Developer Works (Comunidad)](#8-developerworks)
 9. [IBM Redbooks](#9-ibm-redbooks)
 10. [IBM Fix Central](#10-ibm-fix-central)
-11. [Problem Management Report(PMR)](#10-ibm-fix-central)
+11. [Problem Management Report(PMR)](#11-problem-management-reportpmr)
 
 
 # 1. Compatibilidad de Software
