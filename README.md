@@ -8,7 +8,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 
 
 # Tabla de contenido
-1. Compatibilidad
+1. Compatibilidad de Software
     - 1.1 Operating systems
     - 1.2 Related software
     - 1.3 Hypervisors
@@ -33,8 +33,9 @@ El sitio web mencionado es:
 
 <img src="img/Selection_006.png" width="700" height="385">
 
+- El reporte será generado, el mismo incluye la información de todas las versiones de sistemas operativos soportados para el producto seleccionado.
 
-
+<img src="img/Selection_007.png" width="700" height="385">
 
 <div style="background-color:#5A0F1B;color:white; vertical-align: middle; text-align:center;font-size:190%; padding:10px; margin-top:100px">
  IBM Tools for Software
