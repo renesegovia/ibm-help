@@ -11,13 +11,15 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 1. Compatibilidad de Software
     - 1.1 Operating systems
     - 1.2 Related software
-    - 1.3 Hypervisors
-    - 1.4 In-depth reports
+    - 1.3 In-depth reports
 2. Acuerdo de Licenciamiento por Producto
 3. Ciclo de vida de los Productos
 4. Tabla de PVUs por Tecnología
 5. Software Support Handbook      
 6. Cartas de Anuncio
+7. Knowledge Center (Información técnica detallada)
+8. Developer Works (Comunidad)
+9. IBM Redbooks
 
 
 # 1. Compatibilidad
@@ -66,6 +68,19 @@ El siguiente link tiene toda la información de importancia para el manejo de so
 El siguiente link tiene toda la información de importancia que emite IBM acerca de actualizaciones y lanzamientos de productos. 
 
 [Cartas de Anuncio](https://www-01.ibm.com/common/ssi/apilite?infotype=an&infosubt=ca&lastdays=7&ctvwcode=us&hitlimit=200&appname=USN).
+
+# 8. DeveloperWorks
+Es un sitio de mucha utilidad a la hora de encontrar información acerca de tutoriales, herramientas, foror y algunos cursos.
+
+[DeveloperWorks](https://www.ibm.com/developerworks/).
+
+# 9. IBM Redbooks
+El contenido de IBM Redbooks es desarrollado y publicado por el Grupo de Servicios Digitales de IBM, Technical Content Services (TCS), antes conocido como ITSO. TCS desarrolla y ofrece habilidades, conocimientos técnicos y materiales a profesionales técnicos de IBM, socios comerciales, clientes y al mercado en general. Nuestros productos de información de valor agregado abordan perspectivas de productos, plataformas y soluciones. Exploran la integración, implementación y operación de escenarios de clientes que incluyen PeopleSoft, Linux, Windows, SAP, Oracle y otros.
+
+El contenido principal de IBM Redbooks generalmente proporciona orientación de posicionamiento y valor, experiencias de instalación e implementación, escenarios típicos de soluciones y pautas paso a paso de "how to". Refleja experiencias de trabajo sobre un tema específico y, a menudo, incluye código de muestra y otros materiales de soporte que también están disponibles como descargas de este sitio. El contenido de Redbooks más corto (como documentos y guías) a menudo se enfoca en una visión empresarial de la tecnología que resuelve problemas comerciales, proporciona valor comercial o permite una ventaja competitiva aplicando tecnologías existentes o explorando un mapa de ruta para las tecnologías emergentes.
+
+[IBM Redbooks](http://www.redbooks.ibm.com/).
+
 
 
 
