@@ -21,6 +21,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces e info
 8. [Developer Works (Comunidad)](#8-developerworks)
 9. [IBM Redbooks](#9-ibm-redbooks)
 10. [IBM Fix Central](#10-ibm-fix-central)
+11. [Problem Management Report(PMR)](#10-ibm-fix-central)
 
 
 # 1. Compatibilidad de Software
@@ -181,5 +182,10 @@ El sitio web mencionado es:
 
 <img src="img/Selection_022.png" width="700" height="385">
 
+# 11. Problem Management Report(PMR)
 
+Un PMR(Problem Management Report) es un Informe de gestión de problemas, que es un documento que se utiliza para gestionar cualquier problema de producto técnico que un cliente informe a IBM. Para crear y enviar un PMR, debe enviar una solicitud de servicio utilizando la herramienta de solicitud de servicio (SR). Una vez creado, el PMR tiene un número único que SR le comunica en tiempo real. Cada vez que el Soporte de IBM actualiza el PMR, usted recibe un correo electrónico con la actualización.
 
+Para abrir un PMR utilizar el siguiente link:
+
+[Problem Management Report](https://www-947.ibm.com/support/servicerequest/).
