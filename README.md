@@ -29,7 +29,7 @@ El sitio web mencionado es:
 
 [Software Product Compatibility Reports](https://www.ibm.com/software/reports/compatibility/clarity/index.html).
 
-## 1.1- Operating systems
+## 1.1. Operating systems
 - Para el análisis de sistemas operativos ingresamos al link
 - Una vez dentro seleccionamos la opción **Operating systems** y damos click en **Create a report**
 
@@ -43,7 +43,7 @@ El sitio web mencionado es:
 
 <img src="img/Selection_007.png" width="700" height="385">
 
-## 1.2- Related software
+## 1.2. Related software
 - Para el análisis de software relacionado ingresamos al link
 - Una vez dentro seleccionamos la opción **Related software** y damos click en **Create a report**
 
@@ -57,7 +57,7 @@ El sitio web mencionado es:
 
 <img src="img/Selection_012.png" width="700" height="385">
 
-## 1.3- In-depth reports
+## 1.3. In-depth reports
 - Para obtener un reporte detalado ingresamos al link
 - Una vez dentro en la sección **In-depth reports** damos click en **Create a report**
 
@@ -70,6 +70,9 @@ El sitio web mencionado es:
 - El reporte será generado, el mismo incluye la información detallada del producto seleccionado.
 
 <img src="img/Selection_012.png" width="700" height="385">
+
+# 2. Acuerdo de Licenciamiento por Producto
+
 
 # 3. Ciclo de vida de los Productos
 Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
