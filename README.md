@@ -82,7 +82,7 @@ El sitio web mencionado es:
 [Software lifecycle](http://www-01.ibm.com/software/support/lifecycle/).
 
 - Para la consulta de información ingresamos al link
-- Una vez dentro colocamos el producto deseado como: **Websphere Application Server** y damos click en **Search*
+- Una vez dentro colocamos el producto deseado como: **Websphere Application Server** y damos click en **Search**
 
 <img src="img/Selection_009.png" width="700" height="385">
 
@@ -105,6 +105,22 @@ El siguiente link tiene toda la información de importancia para el manejo de so
 El siguiente link tiene toda la información de importancia que emite IBM acerca de actualizaciones y lanzamientos de productos. 
 
 [Cartas de Anuncio](https://www-01.ibm.com/common/ssi/apilite?infotype=an&infosubt=ca&lastdays=7&ctvwcode=us&hitlimit=200&appname=USN).
+
+# 7. Knowledge Center
+El siguiente link contiene información técnica detallada de los productos, se podrá encontrar información acerca de: instalación, administración, mantenimiento, comandos, etc. 
+
+El sitio web mencionado es:
+
+[Knowledge Center](https://www.ibm.com/support/knowledgecenter/).
+
+- Para la búsqueda de información ingresamos al link
+- Una vez dentro colocamos el producto deseado como: **Websphere Application Server** y damos click en el ícono de **Search**
+
+<img src="img/Selection_015.png" width="700" height="385">
+
+- Luego de realizar la búsqueda seleccionamos el producto deseado y de presentará la pantalla inicial del producto, en esta podemos ver la tabla de contenido de toda la información y además podemos cambiar de verión.
+
+<img src="img/Selection_016.png" width="700" height="385">
 
 # 8. DeveloperWorks
 Es un sitio de mucha utilidad a la hora de encontrar información acerca de tutoriales, herramientas, foros y algunos cursos.
