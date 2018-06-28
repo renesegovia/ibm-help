@@ -3,10 +3,8 @@
  IBM Tools for Software
 </div>
 
-<img src="img/containers.jpeg" width="700" height="385">
-
 ## Proposito del Material
-El propósito del siguiente material es proveer a la comunidad de enlaces y procedimientos de utilidad para el manejo en general de Software IBM. 
+El propósito del siguiente material es proveer a la comunidad de enlaces y procedimientos de utilidad para el manejo en general de Software IBM. El presente documento no constituye información oficial de IBM , simplemente es una guía con herramientas que pueden ser usadas por los interesados.
 
 
 # Tabla de contenido
@@ -25,9 +23,16 @@ El sitio web mencionado es:
 
 [Software Product Compatibility Reports](https://www.ibm.com/software/reports/compatibility/clarity/index.html).
 
-##1.1- Operating systems
+## 1.1- Operating systems
 - Para el análisis de sistemas operativos ingresamos al link
 - Una vez dentro seleccionamos la opción **Operating systems** y damos click en **Create a report**
+
+<img src="img/Selection_005.png" width="700" height="385">
+
+- En la siguiente ventana colocamos el producto del cual requerimos información como **Websphere Application Server**, lo seleccionamos de la lista, escogemos la versión adecuada y damos click en **Submit** para generar el reporte.
+
+<img src="img/Selection_006.png" width="700" height="385">
+
 
 
 
