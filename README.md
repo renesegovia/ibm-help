@@ -73,7 +73,11 @@ El sitio web mencionado es:
 <img src="img/Selection_012.png" width="700" height="385">
 
 # 2. Acuerdo de Licenciamiento por Producto
+Cada producto IBM cuenta con un documento de licencia específico que incluye la manera en la que es licenciado, los productos de soporte que contiene y las restricciones de uso. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
+El sitio web mencionado es:
+
+[License Information documents](http://www-03.ibm.com/software/sla/sladb.nsf/search/).
 
 # 3. Ciclo de vida de los Productos
 Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
@@ -158,7 +162,7 @@ El sitio web mencionado es:
 
 <img src="img/Selection_021.png" width="700" height="385">
 
-- Se verificá lo que se va a descargar y se da click en **Download Now**
+- Se verifica lo que se va a descargar y se da click en **Download Now**
 
 <img src="img/Selection_022.png" width="700" height="385">
 
