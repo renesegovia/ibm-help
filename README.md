@@ -23,7 +23,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces e info
 
 
 # 1. Compatibilidad de Software
-El análisis de comtatibilidad es de mucha importacia al momento de diseñar nuevas arquitecturas, el sistema operativo a ser usado,las características de hardware e hypervisores y el software relacionado son de suma importancia para el diseño de soluciones. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
+El análisis de comtatibilidad es de mucha importancia al momento de diseñar nuevas arquitecturas, el sistema operativo a ser usado,las características de hardware e hypervisores y el software relacionado son de suma importancia para el diseño de soluciones. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
 El sitio web mencionado es:
 
