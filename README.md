@@ -59,6 +59,12 @@ El sitio web mencionado es:
 
 <img src="img/Selection_010.png" width="700" height="385">
 
+# 4. Tabla de PVUs por Tecnología 
+Gran parte del software IBM viene licenciado por un métrica llamada PVU(Processor Value Unit),el número de PVUs depende directamente del tipo de servidor sobre el que se vaya a instalar el software, el siguiente link muestra los diferentes valores dependiendo de la tecnología usada.
+
+[Processor Value Unit Table](https://www-01.ibm.com/software/passportadvantage/pvu_licensing_for_customers.html).
+
+
 # 5. Software Support Handbook 
 El siguiente link tiene toda la información de importancia para el manejo de soporte de productos IBM.
 
@@ -70,7 +76,7 @@ El siguiente link tiene toda la información de importancia que emite IBM acerca
 [Cartas de Anuncio](https://www-01.ibm.com/common/ssi/apilite?infotype=an&infosubt=ca&lastdays=7&ctvwcode=us&hitlimit=200&appname=USN).
 
 # 8. DeveloperWorks
-Es un sitio de mucha utilidad a la hora de encontrar información acerca de tutoriales, herramientas, foror y algunos cursos.
+Es un sitio de mucha utilidad a la hora de encontrar información acerca de tutoriales, herramientas, foros y algunos cursos.
 
 [DeveloperWorks](https://www.ibm.com/developerworks/).
 
