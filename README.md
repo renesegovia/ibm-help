@@ -3,7 +3,7 @@
  IBM Tools for Software
 </div>
 
-## Proposito del Material
+## Propósito del Material
 El propósito del siguiente material es proveer a la comunidad de enlaces e información de utilidad para el manejo en general de Software IBM. El presente documento no constituye información oficial de IBM , simplemente es una guía con herramientas que pueden ser usadas por los interesados.
 
 
@@ -74,7 +74,7 @@ El sitio web mencionado es:
 <img src="img/Selection_012.png" width="700" height="385">
 
 # 2. Acuerdo de Licenciamiento por Producto
-Cada producto IBM cuenta con un documento de licencia específico que incluye la manera en la que es licenciado, los productos de soporte que contiene y las restricciones de uso. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
+Cada producto IBM cuenta con un documento de licencia específico que incluye la manera en la que es licenciado, los productos de soporte que contiene y las restricciones de uso, entre otra información. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
 El sitio web mencionado es:
 
@@ -96,7 +96,7 @@ El sitio web mencionado es:
 - La información de licencia del producto es presentada
 
 # 3. Ciclo de vida de los Productos
-Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
+Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos servirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
 El sitio web mencionado es:
 
@@ -149,7 +149,7 @@ Es un sitio de mucha utilidad a la hora de encontrar información acerca de tuto
 [DeveloperWorks](https://www.ibm.com/developerworks/).
 
 # 9. IBM Redbooks
-El contenido de IBM Redbooks es desarrollado y publicado por el Grupo de Servicios Digitales de IBM, Technical Content Services (TCS), antes conocido como ITSO. TCS desarrolla y ofrece habilidades, conocimientos técnicos y materiales a profesionales técnicos de IBM, socios comerciales, clientes y al mercado en general. Nuestros productos de información de valor agregado abordan perspectivas de productos, plataformas y soluciones. Exploran la integración, implementación y operación de escenarios de clientes que incluyen PeopleSoft, Linux, Windows, SAP, Oracle y otros.
+El contenido de IBM Redbooks es desarrollado y publicado por el Grupo de Servicios Digitales de IBM, Technical Content Services (TCS). TCS desarrolla y ofrece habilidades, conocimientos técnicos y materiales a profesionales técnicos de IBM, socios comerciales, clientes y al mercado en general. Los productos generan información de valor agregado y abordan perspectivas de productos, plataformas y soluciones. Exploran la integración, implementación y operación de escenarios de clientes que incluyen PeopleSoft, Linux, Windows, SAP, Oracle y otros.
 
 El contenido principal de IBM Redbooks generalmente proporciona orientación de posicionamiento y valor, experiencias de instalación e implementación, escenarios típicos de soluciones y pautas paso a paso de "how to". Refleja experiencias de trabajo sobre un tema específico y, a menudo, incluye código de muestra y otros materiales de soporte que también están disponibles como descargas de este sitio. El contenido de Redbooks más corto (como documentos y guías) a menudo se enfoca en una visión empresarial de la tecnología que resuelve problemas comerciales, proporciona valor comercial o permite una ventaja competitiva aplicando tecnologías existentes o explorando un mapa de ruta para las tecnologías emergentes.
 
@@ -184,7 +184,7 @@ El sitio web mencionado es:
 
 # 11. Problem Management Report(PMR)
 
-Un PMR(Problem Management Report) es un Informe de gestión de problemas, que es un documento que se utiliza para gestionar cualquier problema de producto técnico que un cliente informe a IBM. Para crear y enviar un PMR, debe enviar una solicitud de servicio utilizando la herramienta de solicitud de servicio (SR). Una vez creado, el PMR tiene un número único que SR le comunica en tiempo real. Cada vez que el Soporte de IBM actualiza el PMR, usted recibe un correo electrónico con la actualización.
+Un PMR(Problem Management Report) es un Informe de gestión de problemas, que es un documento que se utiliza para gestionar cualquier problema de producto técnico que un cliente informe a IBM. Para crear y enviar un PMR, debe enviar una solicitud de servicio utilizando la herramienta de solicitud de servicio (SR). Una vez creado, el PMR tiene un número único. Las actualizaciones comunican en tiempo real cada vez que el Soporte de IBM actualiza el PMR hacia el cliente mediante correo electrónico.
 
 Para abrir un PMR utilizar el siguiente link:
 
