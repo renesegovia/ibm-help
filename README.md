@@ -10,8 +10,8 @@ El propósito del siguiente material es proveer a la comunidad de enlaces e info
 # Tabla de contenido
 1. [Compatibilidad de Software](#1-compatibilidad-de-software)
     - 1.1 [Sistemas Operativos](#11-sistemas-operativos)
-    - 1.2 Software Relacionado
-    - 1.3 Reportes Detallados
+    - 1.2 [Software Relacionado](#12-software-relacionado)
+    - 1.3 [Reportes Detallados](#13-reportes-detallados)
 2. [Acuerdo de Licenciamiento por Producto](#2-acuerdo-de-licenciamiento-por-producto)
 3. [Ciclo de vida de los Productos](#3-ciclo-de-vida-de-los-productos)
 4. [Tabla de PVUs por Tecnología](#4-tabla-de-pvus-por-tecnología)
