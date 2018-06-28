@@ -79,6 +79,21 @@ El sitio web mencionado es:
 
 [License Information documents](http://www-03.ibm.com/software/sla/sladb.nsf/search/).
 
+- Para la consulta de información ingresamos al link
+- Una vez dentro colocamos el producto deseado como: **Websphere Application Server** y pulsamos **ENTER**
+
+<img src="img/Selection_023.png" width="700" height="385">
+
+- A continuación damos click sobre el link del producto que deseamos consultar
+
+<img src="img/Selection_024.png" width="700" height="385">
+
+- Y en la siguiente ventana damos click en **Submit**
+
+<img src="img/Selection_025.png" width="700" height="385">
+
+- La información de licencia del producto es presentada
+
 # 3. Ciclo de vida de los Productos
 Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
