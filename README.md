@@ -43,6 +43,20 @@ El sitio web mencionado es:
 
 <img src="img/Selection_007.png" width="700" height="385">
 
+## 1.2- Related software
+- Para el análisis de software relacionado ingresamos al link
+- Una vez dentro seleccionamos la opción **Related software** y damos click en **Create a report**
+
+<img src="img/Selection_011.png" width="700" height="385">
+
+- En la siguiente ventana colocamos el producto del cual requerimos información como **Websphere Application Server**, lo seleccionamos de la lista, escogemos la versión adecuada y damos click en **Submit** para generar el reporte.
+
+<img src="img/Selection_006.png" width="700" height="385">
+
+- El reporte será generado, el mismo incluye la información del software soportado para el producto seleccionado.
+
+<img src="img/Selection_007.png" width="700" height="385">
+
 # 3. Ciclo de vida de los Productos
 Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
