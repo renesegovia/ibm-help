@@ -8,14 +8,14 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 
 
 # Tabla de contenido
-1. Compatibilidad de Software
+1. [Compatibilidad de Software](#1-compatibilidad-de-software)
     - 1.1 Sistemas Operativos
     - 1.2 Software Relacionado
     - 1.3 Reportes Detallados
 2. Acuerdo de Licenciamiento por Producto
 3. Ciclo de vida de los Productos
 4. Tabla de PVUs por Tecnología
-5. Software Support Handbook      
+5. [Software Support Handbook](#5-software-support-handbook)      
 6. [Cartas de Anuncio](#6-cartas-de-anuncio)
 7. [Knowledge Center (Información técnica detallada)](#7-knowledge-center)
 8. [Developer Works (Comunidad)](#8-developerworks)
