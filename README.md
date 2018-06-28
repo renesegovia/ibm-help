@@ -20,6 +20,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces e info
 7. [Knowledge Center (Información técnica detallada)](#7-knowledge-center)
 8. [Developer Works (Comunidad)](#8-developerworks)
 9. [IBM Redbooks](#9-ibm-redbooks)
+10. [IBM Fix Central](#10-)
 
 
 # 1. Compatibilidad de Software
@@ -133,3 +134,6 @@ El contenido de IBM Redbooks es desarrollado y publicado por el Grupo de Servici
 El contenido principal de IBM Redbooks generalmente proporciona orientación de posicionamiento y valor, experiencias de instalación e implementación, escenarios típicos de soluciones y pautas paso a paso de "how to". Refleja experiencias de trabajo sobre un tema específico y, a menudo, incluye código de muestra y otros materiales de soporte que también están disponibles como descargas de este sitio. El contenido de Redbooks más corto (como documentos y guías) a menudo se enfoca en una visión empresarial de la tecnología que resuelve problemas comerciales, proporciona valor comercial o permite una ventaja competitiva aplicando tecnologías existentes o explorando un mapa de ruta para las tecnologías emergentes.
 
 [IBM Redbooks](http://www.redbooks.ibm.com/).
+
+# 10. IBM Fix Central
+
