@@ -20,7 +20,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces e info
 7. [Knowledge Center (Información técnica detallada)](#7-knowledge-center)
 8. [Developer Works (Comunidad)](#8-developerworks)
 9. [IBM Redbooks](#9-ibm-redbooks)
-10. [IBM Fix Central](#10-)
+10. [IBM Fix Central](#10-ibm-fix-central)
 
 
 # 1. Compatibilidad de Software
@@ -136,4 +136,31 @@ El contenido principal de IBM Redbooks generalmente proporciona orientación de 
 [IBM Redbooks](http://www.redbooks.ibm.com/).
 
 # 10. IBM Fix Central
+Fix Central proporciona actualizaciones para el software, el hardware y los sistemas operativos provistos por IBM. Para esto IBM proveé un sitio web en donde se puede realizar las descargas. 
+
+El sitio web mencionado es:
+
+[IBM Fix Central](https://www-945.ibm.com/support/fixcentral/).
+- Para la búsqueda de información ingresamos al link
+- Una vez dentro proporcionamos el nombre del producto que buscamos, la versión instalada y la plataforma y damos click en **Continue**
+
+<img src="img/Selection_017.png" width="700" height="385">
+
+- En la siguiente página seleccionamos **Browse for Fixes** y damos click en **Continue**
+
+<img src="img/Selection_018.png" width="700" height="385">
+
+- Enseguida se despliegan los fixes disponibles, seleccionamos el que deseamos descargar y damos click en **Continue**
+
+<img src="img/Selection_020.png" width="700" height="385">
+
+- Se acepta los términos de la licencia dando click en **I agree**
+
+<img src="img/Selection_021.png" width="700" height="385">
+
+- Se verificá lo que se va a descargar y se da click en **Download Now**
+
+<img src="img/Selection_022.png" width="700" height="385">
+
+
 
