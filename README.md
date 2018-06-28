@@ -16,8 +16,8 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 3. Ciclo de vida de los Productos
 4. Tabla de PVUs por Tecnología
 5. Software Support Handbook      
-6. Cartas de Anuncio
-7. Knowledge Center (Información técnica detallada)
+6. [Cartas de Anuncio](#6-cartas-de-anuncio)
+7. [Knowledge Center (Información técnica detallada)](#7-knowledge-center)
 8. [Developer Works (Comunidad)](#8-developerworks)
 9. [IBM Redbooks](#9-ibm-redbooks)
 
