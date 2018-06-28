@@ -55,7 +55,7 @@ El sitio web mencionado es:
 
 - El reporte será generado, el mismo incluye la información del software soportado para el producto seleccionado.
 
-<img src="img/Selection_007.png" width="700" height="385">
+<img src="img/Selection_012.png" width="700" height="385">
 
 # 3. Ciclo de vida de los Productos
 Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
