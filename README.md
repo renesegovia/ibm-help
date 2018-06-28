@@ -19,7 +19,7 @@ El propósito del siguiente material es proveer a la comunidad de enlaces y proc
 6. Cartas de Anuncio
 7. Knowledge Center (Información técnica detallada)
 8. Developer Works (Comunidad)
-9. IBM Redbooks
+9. [IBM Redbooks](#9)
 
 
 # 1. Compatibilidad
