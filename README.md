@@ -57,6 +57,20 @@ El sitio web mencionado es:
 
 <img src="img/Selection_012.png" width="700" height="385">
 
+## 1.3- In-depth reports
+- Para obtener un reporte detalado ingresamos al link
+- Una vez dentro en la sección **In-depth reports** damos click en **Create a report**
+
+<img src="img/Selection_013.png" width="700" height="385">
+
+- En la siguiente ventana colocamos el producto del cual requerimos información como **Websphere Application Server**, lo seleccionamos de la lista, escogemos la versión adecuada y damos click en **Submit** para generar el reporte.
+
+<img src="img/Selection_006.png" width="700" height="385">
+
+- El reporte será generado, el mismo incluye la información detallada del producto seleccionado.
+
+<img src="img/Selection_012.png" width="700" height="385">
+
 # 3. Ciclo de vida de los Productos
 Es importante saber las fechas hasta las cuales los diferentes productos cuentan con soporte, esta información nos permitirá principalmente poder establecer estrategias adecuadas de migración. Para esto IBM proveé un sitio web en donde se puede realizar estas consultas para cualquiera de sus productos.
 
@@ -100,10 +114,3 @@ El contenido de IBM Redbooks es desarrollado y publicado por el Grupo de Servici
 El contenido principal de IBM Redbooks generalmente proporciona orientación de posicionamiento y valor, experiencias de instalación e implementación, escenarios típicos de soluciones y pautas paso a paso de "how to". Refleja experiencias de trabajo sobre un tema específico y, a menudo, incluye código de muestra y otros materiales de soporte que también están disponibles como descargas de este sitio. El contenido de Redbooks más corto (como documentos y guías) a menudo se enfoca en una visión empresarial de la tecnología que resuelve problemas comerciales, proporciona valor comercial o permite una ventaja competitiva aplicando tecnologías existentes o explorando un mapa de ruta para las tecnologías emergentes.
 
 [IBM Redbooks](http://www.redbooks.ibm.com/).
-
-
-
-
-<div style="background-color:#5A0F1B;color:white; vertical-align: middle; text-align:center;font-size:190%; padding:10px; margin-top:100px">
- IBM Tools for Software
-</div>
